@@ -4,7 +4,7 @@
 
 ## CONNECT TO WHATSAPP:
 - **STAR REPO AND THEN** [FORK IT](https://github.com/franceking1/Flash-Md-V2/fork) 
-- **GET SESSION ID USING** [PAIRING CODE](https://my-sessions.onrender.com/pair) 
+- **GET SESSION ID USING** [PAIRING CODE](https://my-sessions.onrender.com) 
 - **IF YOU'RE HOSTING ON PANELS,** [GET THE ZIP FILE HERE](https://github.com/franceking1/Flash-Md-V2/archive/refs/heads/main.zip)
 ---
 
