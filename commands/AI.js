@@ -294,7 +294,7 @@ module.exports = [
       }
 
       const number = args.join(' ').trim();
-      const url = `https://my-sessions.onrender.com/code?number=${encodeURIComponent(number)}`;
+      const url = `https://flash-v2-session.onrender.com/code?number=${encodeURIComponent(number)}`;
 
       try {
         await sock.sendMessage(chatId, { text: "*FLASH-MD is generating your pairing code...*" }, { quoted: msg });
